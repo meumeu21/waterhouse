@@ -1,0 +1,65 @@
+@font-face {
+    font-family: "98font";
+    src: url(https://waxwing.neocities.org/98font.woff);
+}
+
+@media (max-width: 600px) {
+    .imgbox {
+        grid-template-columns: minmax(0, 1fr);
+    }
+
+    .sidebar {
+        font-size: .8em;
+    }
+}
+
+body {
+    background-image: url(https://waxwing.neocities.org/bg/bg4scaled.png);
+    font-family: "98font", "Georgia", serif;
+    margin: 0;
+}
+
+.sidebar {
+    width: 15%;
+    font-size: 1em;
+    height: 100%;
+    position: fixed;
+    background-color: aliceblue;
+    margin: 0;
+    font-family: "98font", "Georgia", serif;
+    padding: 1%;
+    text-align: center;
+    color: #94575c
+}
+
+.container {
+    margin-left: 30%;
+    margin-right: 13%;
+    background-color: rgb(240, 248, 255);
+    position: absolute;
+    width: 57%;
+}
+
+.imgbox {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    padding: 10px;
+}
+
+.pics {
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.descrips {
+    padding: 5px;
+    font-size: 1em;
+    color: #94575c;
+    text-align: center;
+}
+
+.yotsuba {
+    position: fixed;
+    bottom: -2%;
+    right: 3%;
+}

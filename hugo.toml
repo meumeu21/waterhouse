@@ -1,0 +1,34 @@
+baseURL = 'https://redorange.neocities.org'
+languageCode = 'en-us'
+title = 'waterhouse'
+theme = "smol"
+titleCaseStyle = 'none'
+summaryLength = 10
+
+[markup.goldmark.renderer]
+unsafe= true
+
+# Parameters
+[params]
+    subtitle = "anxiously doing nothing"
+    dateFmt = "02.01.2006"
+
+# Header
+[menu]
+  [[menu.main]]
+        identifier = "diary"
+        name = "diary"
+        url = "/diary-entries/"
+        weight = 1 
+
+  [[menu.main]]
+        identifier = "songs translations"
+        name = "songs translations"
+        url = "/songs-translations/"
+        weight = 2
+
+  [[menu.main]]
+        identifier = "tags"
+        name = "tags"
+        url = "/tags/"
+        weight = 3

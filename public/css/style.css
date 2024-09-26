@@ -1,0 +1,117 @@
+html {
+    overflow-y: scroll; 
+    -moz-osx-font-smoothing: grayscale;}
+body.light-theme {
+    --bgcolor: #f0f0f0; 
+    --fontcolor: #333;
+    --linkcolor: #c370ff; 
+    --visitedcolor: #a321ff; 
+    --precolor: #fff; 
+    --prebgcolor: #000;
+    --button-bgcolor: black;
+    --button-fontcolor: white;
+    --table-bgcolor: #c7aedd;
+    --table-empty-bgcolor: #c5abdeb1;
+    --table-selected-bgcolor: #9466a8;
+    --table-edges: #636363;
+    --hoverbutton: #323232;}
+body.dark-theme {
+    --bgcolor: black; 
+    --fontcolor: white; 
+    --linkcolor: #95C0FF; 
+    --visitedcolor: #448fff; 
+    --precolor: #fff; 
+    --prebgcolor: #383838;
+    --button-bgcolor: white;
+    --button-fontcolor: black;
+    --table-bgcolor: #405f7f;
+    --table-empty-bgcolor: #405f7fce;
+    --table-selected-bgcolor: #a8d4ff;
+    --table-edges: #bababa;
+    --hoverbutton: #bebebe;}
+body {max-width:800px;
+    margin: 40px auto;
+    padding: 0 10px;
+    font: 16px/1.5 "pixfont", monospace;
+    word-wrap: break-word;
+    color: var(--fontcolor); 
+    background: var(--bgcolor)}
+a:link {color: var(--linkcolor)}
+a:visited {color: var(--linkcolor)}
+a:hover {color: var(--visitedcolor)}
+a:active {color: var(--visitedcolor)}
+h1, h2, h3 {line-height: 1.2;}
+@font-face {
+    font-family: "pixfont";
+    src: url(unifon.woff);}
+p > code {color: var(--precolor); 
+    background: var(--prebgcolor); 
+    padding:2px}
+code {color: var(--precolor); 
+    background: var(--prebgcolor); 
+    padding:2px}
+pre {color: var(--precolor); 
+    background: var(--prebgcolor); 
+    padding: 24px; 
+    overflow-x: auto}
+article {padding-bottom: 24px}
+.center {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;}
+figcaption {color: #888; 
+    font: 16px/1.5 "pixfont", monospace; 
+    text-align: center;}
+figure {margin: auto}
+img {display: block; 
+    max-width: 100%; 
+    height: auto; 
+    margin: auto}
+button {
+    font: 14px/1.5 "pixfont", monospace;
+    background-color: var(--button-bgcolor);
+    color: var(--button-fontcolor);}
+table {table-layout: fixed; 
+    width: 100%;}
+td {background-color: var(--table-bgcolor);
+    padding: 9px;
+    text-transform: lowercase;
+    border-radius: 2px;
+    border: 1px solid var(--table-edges);}
+td::selection {background-color: var(--table-selected-bgcolor);
+    color: var(--button-fontcolor);}
+th::selection {background-color: var(--table-selected-bgcolor);
+    color: var(--button-fontcolor);}
+
+.toggleButton {
+    font-size: 13px;
+    padding: 3px 5px;
+    background-color: var(--button-bgcolor);
+    color: var(--button-fontcolor);
+    border: thick double var(--button-fontcolor);}
+.toggleButton:hover {
+    background-color: var(--hoverbutton);}
+.empty {
+    background-color: var(--table-empty-bgcolor);}
+.searchButton {
+    font-size: 15px;
+    background-color: var(--button-bgcolor);
+    color: var(--button-fontcolor);
+    padding: 2px 5px;
+    border-radius: 3px;
+    text-decoration: none;
+    display: inline-block;}
+.highlight {
+    background-color: var(--table-bgcolor);
+    font-weight: bold;
+}
+.hide {
+    display: none;
+}
+
+form input {
+    font: 14px/1.5 "pixfont", monospace;
+    padding: 5px;
+    width: calc(30%);
+    background-color: var(--button-bgcolor);
+    color: var(--button-fontcolor);}

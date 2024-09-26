@@ -1,0 +1,62 @@
+html {overflow-y: scroll;}
+:root { --bgcolor: white; 
+    --fontcolor: #444; 
+    --linkcolor: #DD95FF; 
+    --visitedcolor: #DD95FF; 
+    --precolor: #fff; 
+    --prebgcolor: #000;}
+@media (prefers-color-scheme: dark) 
+    { :root { --bgcolor: black; 
+    --fontcolor: white; 
+    --linkcolor: #95C0FF; 
+    --visitedcolor: #95C0FF; 
+    --precolor: #fff; 
+    --prebgcolor: #383838;}}
+body {max-width:800px;
+    margin: 40px auto;
+    padding: 0 10px;
+    font: 16px/1.5 "pixfont", monospace;
+    color: var(--fontcolor); 
+    background: var(--bgcolor)}
+    a:link {color: var(--linkcolor)}
+    a:visited {color: var(--visitedcolor)}
+    a:active {color: var(--visitedcolor)}
+    h1, h2, h3 {line-height: 1.2;}
+@font-face {
+    font-family: "pixfont";
+    src: url(https://redorange.neocities.org/unifon.woff);
+}
+p > code {color: var(--precolor); 
+    background: var(--prebgcolor); 
+    padding:2px}
+code {color: var(--precolor); 
+    background: var(--prebgcolor); 
+    padding:2px}
+pre {color: var(--precolor); 
+    background: var(--prebgcolor); 
+    padding: 24px; 
+    overflow-x: auto}
+article {padding-bottom: 24px}
+.center {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;}
+figcaption {color: #888; 
+    font: 16px/1.5 "pixfont", monospace; 
+    text-align: center;}
+figure {margin: auto}
+img {display: block; 
+    max-width: 100%; 
+    height: auto; 
+    margin: auto}
+table {table-layout: fixed; 
+    width: 100%;}
+td {background-color: #b17dc7; 
+    padding: 9px; 
+    text-transform: lowercase;}
+    @media (prefers-color-scheme: dark) 
+    {td {background-color: #405f7f; 
+        padding: 9px; 
+        text-transform: lowercase;}}
+
+
