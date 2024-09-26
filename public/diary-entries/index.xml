@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>diary entries on waterhouse</title>
-    <link>https://redorange.neocities.org/diary-entries/</link>
+    <link>https://meumeu21.github.io/waterhouse_redorange/diary-entries/</link>
     <description>Recent content in diary entries on waterhouse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://redorange.neocities.org/diary-entries/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://meumeu21.github.io/waterhouse_redorange/diary-entries/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>current point of interest</title>
-      <link>https://redorange.neocities.org/diary-entries/current-point-of-interest/</link>
+      <link>https://meumeu21.github.io/waterhouse_redorange/diary-entries/current-point-of-interest/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://redorange.neocities.org/diary-entries/current-point-of-interest/</guid>
+      <guid>https://meumeu21.github.io/waterhouse_redorange/diary-entries/current-point-of-interest/</guid>
       <description>right now i play honkai star rail.&#xA;i think every penacony character has left something in my heart.</description>
     </item>
   </channel>

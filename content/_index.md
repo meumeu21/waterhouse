@@ -6,7 +6,7 @@ layout: 'index'
 this is a blog dedicated to my song translations. some songs are from vocaloids, others are from different artists. i mostly translate moody, sad songs about love. there are also some personal things.
 
 этот блог посвящён моим переводам песен. некоторые песни написаны с использованием вокалоидов, другие принадлежат разным музыкантам. я в большей степени перевожу грустные и печальные песни о любви. также, тут есть немного персональной информации.
-![alt text](/images/aeris.png)
+![alt text](images/aeris.png)
 
 all russian translations are provided by me, if you ever stumble upon this site feel free to use them!  
 english translations are credited in the posts.  
