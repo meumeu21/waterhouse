@@ -9,4 +9,4 @@ right now i play honkai star rail.
 i think every penacony character has left something in my heart.  
 especially sunday.
 
-![alt text](images/sunday.png)
+![alt text](images/sunday.heic)
