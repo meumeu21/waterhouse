@@ -1,73 +1,74 @@
-document.addEventListener("DOMContentLoaded", function() {
-    // Step 1: Check if the URL contains "songs-translations"
-    if (window.location.href.includes("songs-translations")) {
-        // Step 2: Find the <p> tag and check its content for 'official' or 'english'
-        const pTag = document.querySelector("p");
-        const pText = pTag ? pTag.textContent.toLowerCase() : "";
-        console.log(pText);
+function showTableVersion(version) {
+    const table = document.querySelector("table");
+    const rows = table.rows;
 
-        // Step 3: Find the table and check the number of <th> tags
-        const table = document.querySelector("table");
-        if (table) {
-            const thElements = table.querySelectorAll("th");
-            const thCount = thElements.length;
+    const firstRow = table.rows[0];  
+    const cellCount = firstRow.cells.length;  
+    const toggle2 = document.getElementById('toggle2');  
+    const toggle3 = document.getElementById('toggle3'); 
+    const toggle4 = document.getElementById('toggle4'); 
 
-            // Step 4: Create a container for the buttons
-            const buttonContainer = document.createElement("div");
-            buttonContainer.style.display = "flex"; // Align buttons horizontally
-            buttonContainer.style.gap = "10px";    // Add space between buttons
-            buttonContainer.style.marginBottom = "20px"; // Add margin from the table
+    if (cellCount === 2) {
+        toggle2.style.display = 'none';  
+    }
 
-            // Helper function to check if a string contains only Latin characters
-            function isLatin(text) {
-                return /^[a-zA-Z\s]+$/.test(text);
-            }
+    const allPElements = document.querySelectorAll('p');
+    const translationCredit = allPElements[2].textContent;
 
-            // Helper function to check if a string contains only Cyrillic characters
-            function isCyrillic(text) {
-                return /^[а-яА-ЯёЁ\s]+$/.test(text);
-            }
+    if (translationCredit.includes('english translation')) {
+        toggle3.textContent = 'english translation';
+    } else if (translationCredit.includes('official lyrics')) {
+        toggle3.textContent = 'original text';
+    }
 
-            for (let i = 1; i <= thCount; i++) {
-                const button = document.createElement("button");
-                button.textContent = thElements[1].textContent.trim();
-                button.textContent = pText;
-                if (thCount === 2 && pText.includes("official")) {
-                    if (isLatin(thElements[1].textContent.trim())) {
-                        if (i === 1) {
-                            button.textContent = 'original text';
-                        } else if (i === 2) {
-                            button.textContent = 'english translation';
-                        }
-                    } else if (isCyrillic(thElements[1].textContent.trim())) {
-                        if (i === 1) {
-                            button.textContent = 'original text';
-                        } else if (i === 2) {
-                            button.textContent = 'russian translation';
-                        }
-                    }
-                } else if (thCount === 2 && pText.includes("english")) {
-                    if (i === 1) {
-                        button.textContent = 'english translation';
-                    } else if (i === 2) {
-                        button.textContent = 'russian translation';
-                    }
-                } else if (thCount === 3) {
-                    if (i === 1) {
-                        button.textContent = 'original text';
-                    } else if (i === 2) {
-                        button.textContent = 'english translation';
-                    } else {
-                        button.textContent = 'russian translation';
-                    }
-                }
-                button.style.padding = "10px";
-                button.style.cursor = "pointer";
-                buttonContainer.appendChild(button);
-            }
+    const cyrillicRegex = /[\u0400-\u04FF]/;
+    const heading = document.querySelector('h3').textContent;
+    const headingParts = heading.split('|')
+    const cyrillicHeading = headingParts[0].trim()
+    if (cyrillicRegex.test(cyrillicHeading)) {
+        toggle4.textContent = 'english translation';
+    }
 
-            // Step 6: Insert the buttons before the table
-            table.insertAdjacentElement("beforebegin", buttonContainer);
+    // Reset all columns to be visible
+    for (let i = 0; i < rows.length; i++) {
+        for (let j = 0; j < rows[i].cells.length; j++) {
+            rows[i].cells[j].style.display = '';
         }
     }
-});
+
+    if (version === 'full') {
+        table.style.width = '100%';
+    } else {
+        // Hide columns based on the version
+        table.style.width = '60%';
+        table.style.marginLeft = 'auto';
+        table.style.marginRight = 'auto';
+        if (version === 'version1') {
+            for (let i = 0; i < rows.length; i++) {
+                rows[i].cells[1].style.display = 'none';
+                rows[i].cells[2].style.display = 'none';
+            }
+        } else if (version === 'version2') {
+            for (let i = 0; i < rows.length; i++) {
+                if (cellCount === 2) {
+                    rows[i].cells[1].style.display = 'none';
+                } else if (cellCount === 3) {
+                    rows[i].cells[0].style.display = 'none';
+                    rows[i].cells[2].style.display = 'none';
+                }
+            }
+        } else if (version === 'version3') {
+            for (let i = 0; i < rows.length; i++) {
+                if (cellCount === 2) {
+                    rows[i].cells[0].style.display = 'none';
+                } else if (cellCount === 3) {
+                    rows[i].cells[0].style.display = 'none';
+                    rows[i].cells[1].style.display = 'none';
+                }
+            }
+        } 
+    }
+
+}
+
+showTableVersion('full');

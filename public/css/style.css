@@ -83,9 +83,15 @@ td::selection {background-color: var(--table-selected-bgcolor);
 th::selection {background-color: var(--table-selected-bgcolor);
     color: var(--button-fontcolor);}
 
+.toggleButtons {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
 .toggleButton {
     font-size: 13px;
     padding: 3px 5px;
+    margin-right: 2px;
     background-color: var(--button-bgcolor);
     color: var(--button-fontcolor);
     border: thick double var(--button-fontcolor);}

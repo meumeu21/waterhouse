@@ -28,7 +28,13 @@ unsafe= true
         weight = 2
 
   [[menu.main]]
+        identifier = "sections"
+        name = "sections"
+        url = "/sections/"
+        weight = 3
+
+  [[menu.main]]
         identifier = "tags"
         name = "tags"
         url = "/tags/"
-        weight = 3
+        weight = 4
