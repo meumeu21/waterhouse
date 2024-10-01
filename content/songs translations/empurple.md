@@ -8,6 +8,8 @@ tags:
 
 ### エンパープル | empurple | багрянеть
 
+english translation - [by Mes and Violet Lights on a project sekai wiki](https://projectsekai.fandom.com/wiki/Empurple)
+
 empurple | багрянеть
 --|--
 

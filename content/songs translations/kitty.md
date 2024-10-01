@@ -8,6 +8,8 @@ tags:
 
 ### キティ | kitty | котенок
 
+english translation - [by Shiru on a project sekai wiki](https://projectsekai.fandom.com/wiki/Kitty)
+
 kitty | котенок
 --|--
 

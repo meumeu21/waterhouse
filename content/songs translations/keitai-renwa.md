@@ -8,7 +8,7 @@ tags:
 
 ### 携帯恋話 (keitai renwa) | cellphone love story | история телефонной любви
 
-english translation – [sekaipedia](https://projectsekai.fandom.com/wiki/Keitai_Renwa)
+english translation – [by Thai1210, edited by Violet330 and Chiyo on a project sekai wiki](https://projectsekai.fandom.com/wiki/Keitai_Renwa)
 
 cellphone love story | история телефонной любви
 --|--

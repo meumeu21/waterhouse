@@ -8,6 +8,8 @@ tags:
 
 ### アイディスマイル | idsmile | id-улыбка
 
+english translation - [by Shiopaca nd Violet330 on a project sekai wiki](https://projectsekai.fandom.com/wiki/IDSMILE)
+
 idsmile | id-улыбка
 --|--
 

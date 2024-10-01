@@ -8,6 +8,8 @@ tags:
 
 ### 25時の情熱 (25-ji no jounetsu) | passion at 25:00 | любовь в 25:00
 
+english translation - [by Thai1210, edited by Waffleia on a project sekai fandom](https://projectsekai.fandom.com/wiki/25-ji_no_Jounetsu)
+
 passion at 25:00 | любовь в 25:00
 --|--
 The memory of that train station's platform that vanished one day, | воспоминание о той станции, однажды исчезнувшее,

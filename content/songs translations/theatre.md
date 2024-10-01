@@ -8,6 +8,8 @@ tags:
 
 ### 演劇 | engeki (theatre) | театр
 
+english translation - [by melanhoeddie nd Violet on a project sekai wiki](https://projectsekai.fandom.com/wiki/Engeki)
+
 theatre | театр
 --|--
 

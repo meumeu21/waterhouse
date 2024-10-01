@@ -8,7 +8,7 @@ tags:
 
 ### 限りなく灰色へ (kagirinaku haiiro e) | infinitely gray (close to gray) | навечно серый
 
-english translation – [sekaipedia](https://projectsekai.fandom.com/wiki/Kagirinaku_Haiiro_e)
+english translation – [by Shiopaca on a project sekai wiki](https://projectsekai.fandom.com/wiki/Kagirinaku_Haiiro_e)
 
 infinitely gray | навечно серый
 --|--
@@ -85,4 +85,4 @@ I laughed in the shape of my dreams | смеясь на дне своих меч
 
 <br>
 
-{{< youtube cwLlHFMlBNQ >}}
+{{< youtube qtJ6U4c0_fQ >}}

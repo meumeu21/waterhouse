@@ -8,7 +8,9 @@ tags:
 
 ### 悔やむと書いてミライ (kuyamu to kaite mirai) | composing the future (write the future with regret) | создавать будущее сожалениями
 
+english translation - [by Shiru on a project sekai wiki](https://projectsekai.fandom.com/wiki/Kuyamu_to_Kaite_Mirai)
+
 write the future with regret | создавать будущее сожалениями
 --|--
 
-{{< youtube r2OS97F6P_U >}}
+{{< youtube an_gDTrVdHo >}}

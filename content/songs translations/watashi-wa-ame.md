@@ -8,6 +8,8 @@ tags:
 
 ### 私は雨 (watashi wa ame) | i am the rain | я – дождь
 
+english translation - [by Thai210 on a project sekai wiki](https://projectsekai.fandom.com/wiki/Watashi_wa_Ame)
+
 i am the rain | я – дождь
 --|--
 
