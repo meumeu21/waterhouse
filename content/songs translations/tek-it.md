@@ -19,8 +19,8 @@ and you just can’t call a spade a spade | а ты просто не можеш
 |||
 i watch the moon, let it run my mood | я наблюдаю за луной — она изменяет мое настроение
 can't stop thinking of you | не могу перестать думать о тебе
-i watch you (now i let it go) | я наблюдаю за тобой *(теперь отпускаю)*
-(and i watch as things play out like) | *(и наблюдаю за тем, как всё будет меняться)*
+i watch you *(now i let it go)* | я наблюдаю за тобой *(теперь отпускаю)*
+*(and i watch as things play out like)* | *(и наблюдаю за тем, как всё будет меняться)*
 so long, nice to know you, i'll be moving on | прощай, было приятно тебя знать, я двигаюсь дальше
 |||
 we started off in such a nice place | наши отношения начинались так хорошо
@@ -33,8 +33,8 @@ and admit that i am hoping | и что я до сих пор надеялась 
 |||
 i watch the moon, let it run my mood | я наблюдаю за луной — она изменяет мое настроение
 can't stop thinking of you | не могу перестать думать о тебе
-i watch you (now i let it go) | я наблюдаю за тобой *(теперь отпускаю)*
-(and i watch as things play out like) | *(и наблюдаю за тем, как всё будет меняться)*
+i watch you *(now i let it go)* | я наблюдаю за тобой *(теперь отпускаю)*
+*(and i watch as things play out like)* | *(и наблюдаю за тем, как всё будет меняться)*
 so long, nice to know you, i'll be moving on | прощай, было приятно тебя знать, я двигаюсь дальше
 |||
 you, yeah i always know the truth | ты, да, я всегда знала правду

@@ -33,8 +33,7 @@ Will I be able to love this happiness completely and earnestly? | смогу л�
 Will I be able to save them completely and properly? | смогу ли я полностью и правильно их спасти?
 |||
 The world is shining, don't forget that. | не забывай: мир сверкает.
-The world is squirming, don't forget that too. | не забывай: мир сверкает.
-не забывай это тоже: мир страдает.
+The world is squirming, don't forget that too. | не забывай это тоже: мир страдает.
 You aren't alone in the world, don't forget that as well. | не забывай также и это: ты не одна в этом мире.
 And make sure to not forget your own passion. | и последнее: не забудь о своей мечте.
 |||

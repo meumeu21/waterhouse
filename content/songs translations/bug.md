@@ -1,6 +1,6 @@
 ---
 title: 'bug | バグ || kairiki bear & 25-ji, nightcord de'
-date: "2024-09-29"
+date: "2024-09-28"
 tags:
     - kairiki bear
     - niigo
@@ -29,7 +29,7 @@ This onset of "pain" is no good, no good, no good...No, no, no!!! | этот н�
 |||
 Well! A terrifying emotional drop, it's all the pa-pa-para paranoia! | так! ужасающий эмоциональный спад, это всё па-па-пара-паранойя!
 I raise my drowned-out voice and go round and round | я повышаю свой заглушенный голос и закручиваюсь
-Well!⚠️ It's a desperate situation, I'm doomed to fall no matter what I do! | так! ⚠️ это безнадежная ситуация, я обречена на провал, что бы я ни делала
+Well!⚠ It's a desperate situation, I'm doomed to fall no matter what I do! | так!⚠ это безнадежная ситуация, я обречена на провал, что бы я ни делала
 Surely, surely sinking, no, no, NO! | конечно, конечно утону, нет, нет, НЕТ!
 |||
 Let's see, it's a bu-bu-bug, now, bug, bug | смотри, это ба-ба-баг, сейчас, баг, баг
@@ -58,14 +58,14 @@ Pa-paranoia, pa-paranoia, | па-паранойя, па-паранойя,
 Pa-paranoia, no, no, NO!!! | па-паранойя, нет, нет, НЕТ!!!
 |||
 Now then! A terrifying emotional drop, it's all the pa-pa-para paranoia! | так! ужасающий эмоциональный спад, это всё па-па-пара-паранойя!
-No matter if I go left or right, all I do is spin — the misery!⚠️ | без разницы, пойду ли я влево или вправо, всё, что я делаю, это кручусь — какая жалость! ⚠️
+No matter if I go left or right, all I do is spin — the misery!⚠ | без разницы, пойду ли я влево или вправо, всё, что я делаю, это кручусь — какая жалость!⚠
 My brain is at my limit, going insane with everything I do!! | мой мозг на исходе, я схожу с ума из-за всего, что я делаю!!
 Lost and intoxicated on this darkness, we're playing peek-a-boo! | потерянные и одурманенные в этой темноте, мы играем в прятки!
 Peek-a-boo-hoo, no points for you! | бу! ты проиграла!
 |||
 A terrifying emotional drop, it's all the pa-pa-para paranoia! | ужасающий эмоциональный спад, это всё па-па-пара-паранойя!
 I raise my drowned-out voice and go round and round | я повышаю свой заглушенный голос и закручиваюсь
-Well!⚠️ It's a desperate situation, I'm doomed to fall no matter what I do! | так! ⚠️ это безнадежная ситуация, я обречена на провал, что бы я ни делала
+Well!⚠ It's a desperate situation, I'm doomed to fall no matter what I do! | так!⚠ это безнадежная ситуация, я обречена на провал, что бы я ни делала
 I'm all frozen over, no, no, NO! | я уже полностью заморожена, нет, нет, НЕТ!
 |||
 Let's see, it's a bu-bu-bug, now, a bug, bug, | смотри, это ба-ба-баг, сейчас, баг, баг
