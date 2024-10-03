@@ -1,6 +1,6 @@
 ---
 title: 'i am the rain | 私は雨 || inabakumori & 25-ji, nightcord de'
-date: "2024-09-30"
+date: "2024-10-01"
 tags:
     - niigo
     - inabakumori
@@ -18,7 +18,7 @@ Within the night sky, I lost my name. | в пределах ночного не�
 |||
 The scenery lurking beneath | пейзаж, скрывающийся под
 The motionless surface of the water, | недвигающейся поверхностью воды,
-While still unaware, *(Even if I have become a cloud of fog,)* | всё ещё не осознающий *(даже если я стала облаком тумана)*,
+While still unaware, *(Even if I have become a cloud of fog,)* | всё ещё не осознающий *(даже если я стала облаком тумана)*
 A cloud that's adrift, *(Even though I was fine with this...)* | плывущее по небу облако *(даже если меня это устраивало…)*
 |||
 *(Even though I didn't mind this)* until yesterday, | *(даже если я об этом не думала)* до вчерашнего дня,

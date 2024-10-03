@@ -48,7 +48,7 @@ It makes it hurt so much. | ему очень больно от этой доб�
 Tick-tock, tick-tock, | тик-так, тик-так,
 While holding the second clock hand, I got lost searching for you. | пока я держала часы в одной руке, другой рукой я потеряла тебя
 Tick-tock, tick-tock, | тик-так, тик-так,
-But you were just pretending to be sleeping once again. | но ты лишь притворялась вновь, что спишь
+But you were just pretending to be sleeping once again. | но ты лишь вновь притворялась, что спишь
 |||
 "That's enough. If that's how it is, then please, no more!" | «достаточно. если так и дальше будет, тогда пожалуйста, больше не надо!» —
 I can't say it today either. | сегодня я вновь не могу сказать это

@@ -23,7 +23,7 @@ Rainy Rainy, I wished to be strong | дождливо, дождливо; я ме
 My voice scattered unfeelingly, playing a melody of loneliness | мой голос, бесчувственно рассеянный, играл мелодию одиночества
 |||
 All my fingers would convey was the color of lifelessness | всё, что рисовали мои пальцы, был цвет безжизненности
-"Won't you recognize me?" | «почему вы меня не признаёте?» 
+"Won't you recognize me?" | «почему вы меня не признаете?» 
 |||
 To the gray that's become dull, | в серости, ставшей ещё тусклее,
 Even this talent is something borrowed | даже этот талант не является моим
@@ -31,7 +31,7 @@ Even this talent is something borrowed | даже этот талант не я�
 Someone's voice rang | звучит чей-то голос
 |||
 I'd lost sight of myself - What irony. | я потеряла сама себя — что за ирония
-Without realizing it, I'm still denying it to this day | не осознавая это, я всё ещё не признаю
+Without realizing it, I'm still denying it to this day | не осознавая, я всё ещё это не признаю
 Someone, please, rob me of these feelings | кто-нибудь, пожалуйста, украдите у меня эти чувства
 Before they turn muddied and muddled | перед тем как они помутнеют и испортятся
 |||
@@ -51,7 +51,7 @@ Rainy Rainy, peeking out through the gap in the clouds, | дождливо, до
 The light hit, reached me and lifted the weight off my body | появляется свет, который настигает меня и снимает тяжесть с моего тела
 |||
 Before you go on about aesthetics and pride and the like, first, you've gotta | перед тем как ты начнешь разглагольствовать об эстетике и чести и обо всём подобном, сначала тебе нужно
-"Do the things you can do" | «сделать то, что сможешь»
+"Do the things you can do" | «сделать то, что ты сможешь сделать»
 |||
 On the path of retreat that's closed off, | на закрывшемся пути к отступлению
 Put aside that talent you were so envious of for a moment | забудь на мгновение о таланте, которому ты так завидовала
@@ -74,7 +74,7 @@ Even this talent is something borrowed | даже этот талант не я�
 Someone's voice rang | звучит чей-то голос
 |||
 I'd lost sight of myself – What irony. | я потеряла сама себя — что за ирония
-Without realizing it, I'm still denying it to this day | не осознавая это, я всё ещё не признаю
+Without realizing it, I'm still denying it to this day | не осознавая, я всё ещё это не признаю
 Someone, please, rob me of these feelings | кто-нибудь, пожалуйста, украдите у меня эти чувства
 Before they turn muddied and muddled | перед тем как они помутнеют и испортятся
 |||

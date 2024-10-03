@@ -16,7 +16,7 @@ All alone, I remembered laughing with you | в одиночестве я всп�
 For some reason, my emotions just kept on making noise | по какой-то причине, мои эмоции не успокаивались
 |||
 Was it fine like this? Where did I make a mistake? | всё ли было хорошо до этого? где я совершила ошибку?
-This heat in my chest won’t subside, why? | почему этот жар в моей груди не утихомириться?
+This heat in my chest won’t subside, why? | почему этот жар в моей груди не утихомирится?
 |||
 If it was just a shallow nightmare, I could forgive everything | если бы это просто был пустой кошмар, я бы могла всё простить
 Everything lightly and gently falls | всё легко и нежно закончилось

@@ -44,7 +44,7 @@ Reflected in the darkly stagnating fish tank was my smile | в темном не
 Jackpot Sad Girl, even if we can’t comprehend each other, | грустная девушка с джекпотом, даже если мы не можем друг друга понять
 Let the beat deep in our hearts resonate strongly | пусть глубоко в наших сердцах отзовется ритм
 By facing it head-on, fair and square, and with pride, I’ll make a mistake | столкнувшись с этим лицом к лицу, честно и с гордостью, я совершаю ошибку
-The knife I’m concealing doesn’t suit me, but it’s state of the art due to heresy | нож, который я скрываю, мне не подходит, но он современен и вздорный
+The knife I’m concealing doesn’t suit me, but it’s state of the art due to heresy | нож, который я скрываю, мне не подходит, но он современен и вздорен
 |||
 I, II, III, IV, | один, два, три, четыре,
 V, VI, VII, VIII | пять, шесть, семь, восемь
@@ -54,16 +54,16 @@ According to you, it’s too late, for this place has withered and died out alre
 Plants can’t grow and humans can’t inhabit it anymore | растения не могут расти на нём и люди его не населяют
 It’s a cheap and kitsch asteroid | это дешевый и китчевый астероид 
 |||
-Hey teach, aren't you just an idiot | эй, учитель, разве ты не идиот?
-You still don’t understand these seething feelings | ты всё ещё не понимаешь эти кипящие чувства
-If you're a bigot then just study | если ты фанатик, тогда продолжай учиться
-I’ll show you a pure, ignorant, and idle glorification here | я покажу тебе чистое, невежественное и праздное восхваление
+Hey teach, aren't you just an idiot | эй, учитель, разве вы не идиот?
+You still don’t understand these seething feelings | вы всё ещё не понимаете эти кипящие чувства
+If you're a bigot then just study | если вы фанатик, тогда продолжайте учиться
+I’ll show you a pure, ignorant, and idle glorification here | я покажу вам чистое, невежественное и праздное восхваление
 |||
 Even so... | даже так…
 |||
-Jackpot Sad Girl, wondering if we can comprehend each other— | грустная девушка с джекпотом, интересно, можем ли мы друг друга понять
+Jackpot Sad Girl, wondering if we can comprehend each other— | грустная девушка с джекпотом, интересно, можем ли мы друг друга понять–
 While we still hold close all kinds of anxiety and sloth, | пока мы ещё держимся за всевозможные беспокойства и лени
-And without being able to say anything to anyone, we’ll advance as we are | и без возможности кому-либо что-то сказать, мы живём как можем
+And without being able to say anything to anyone, we’ll advance as we are | и без возможности кому-либо что-то сказать, мы живём, как можем
 The answer we were looking for, that’s like the future, is in our hands | ответ, который мы ищем, как и наше будущее, лежит в наших руках
 There it is | вот и он
 
