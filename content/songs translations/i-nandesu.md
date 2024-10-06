@@ -58,7 +58,7 @@ Can't be helped then | ничего не поделаешь
 |||
 All life is ridiculously pretty | вся жизнь нелепо красива
 Struggling and then it stops raining | сначала изо всех сил боремся, а затем дождь прекращается
-It's an unprecedented brilliance | это беспрецедентное великолепия
+It's an unprecedented brilliance | это беспрецедентное великолепие
 In human history | в людской истории —
 That's what love is | вот, чем любовь является
 

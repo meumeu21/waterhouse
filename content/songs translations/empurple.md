@@ -54,7 +54,7 @@ Please, Forgive me and "Purple" | пожалуйста, прости меня, �
 |||
 My wavering self is being dyed purple. | моё колеблющееся «я» багровеет
 |||
-Still tinged these blue eyes, | всё ещё придан этим голубые глазам
+Still tinged these blue eyes, | всё ещё придан этим голубым глазам
 As being an unknown shade of color, | неизвестный оттенок цвета
 If it was you, you'd remember | если бы это была ты, ты бы вспомнила
 The crimson sky that you earnestly hid. | усердно скрываемое тобой багровое небо
