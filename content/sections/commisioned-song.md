@@ -8,7 +8,7 @@ layout: "commissioned-songs"
 - [cellphone love story | 携帯恋話 || mafumafu & 25-ji, nightcord de]({{< relref "songs-translations/keitai-renwa" >}})
 - [jackpot sad girl | ジャックポットサッドガール || syudou & 25-ji, nightcord de]({{< relref "songs-translations/jackpot-sad-girl" >}})
 
-![alt text](images/niigo/1stsingle.heic)
+![1st single](images/niigo/singles/1stsingle.heic)
 
 <br>
 
@@ -16,7 +16,7 @@ layout: "commissioned-songs"
 - [infinitely gray | 限りなく灰色へ || surii & 25-ji, nightcord de]({{< relref "songs-translations/infinitely-gray" >}})
 - [idsmile | アイディスマイル || toa & 25-ji, nightcord de]({{< relref "songs-translations/idsmile" >}})
 
-![alt text](images/niigo/2ndsingle.heic)
+![2nd single](images/niigo/singles/2ndsingle.heic)
 
 <br>
 
@@ -24,7 +24,7 @@ layout: "commissioned-songs"
 - [kanadetomosusora | カナデトモスソラ || sasanomaly & 25-ji, nightcord de]({{< relref "songs-translations/kanadetomosusora" >}})
 - [reborn | 再生 || picon & 25-ji, nightcord de]({{< relref "songs-translations/reborn" >}})
 
-![alt text](images/niigo/3rdsingle.heic)
+![3rd single](images/niigo/singles/3rdsingle.heic)
 
 <br>
 
@@ -32,7 +32,7 @@ layout: "commissioned-songs"
 - [lower | ロウワー || nulut & 25-ji, nightcord de]({{< relref "songs-translations/lower" >}})
 - [tricologe | トリコロージュ || niru kajitsu & 25-ji, nightcord de]({{< relref "songs-translations/tricologe" >}})
 
-![alt text](images/niigo/4thsingle.heic)
+![4th single](images/niigo/singles/4thsingle.heic)
 
 <br>
 
@@ -40,7 +40,7 @@ layout: "commissioned-songs"
 - [nomad | ノマド || balloon & 25-ji, nightcord de]({{< relref "songs-translations/nomad" >}})
 - [bug | バグ || kairiki bear & 25-ji, nightcord de]({{< relref "songs-translations/bug" >}})
 
-![alt text](images/niigo/5thsingle.heic)
+![5th single](images/niigo/singles/5thsingle.heic)
 
 <br>
 
@@ -48,7 +48,7 @@ layout: "commissioned-songs"
 - [kimi no yoru wo kure (give me your night) | 君の夜をくれ || fullkawa honpo & 25-ji, nightcord de]({{< relref "songs-translations/kimi-no-yoru-wo-kure" >}})
 - [i am you (it's me) | Iなんです || rerulili & 25-ji, nightcord de]({{< relref "songs-translations/i-nandesu" >}})
 
-![alt text](images/niigo/6thsingle.heic)
+![6th single](images/niigo/singles/6thsingle.heic)
 
 <br>
 
@@ -56,7 +56,7 @@ layout: "commissioned-songs"
 - [zamza | ザムザ || teniwoha & 25-ji, nightcord de]({{< relref "songs-translations/zamza" >}})
 - [kitty | キティ || tsumiki & 25-ji, nightcord de]({{< relref "songs-translations/kitty" >}})
 
-![alt text](images/niigo/7thsingle.heic)
+![7th single](images/niigo/singles/7thsingle.heic)
 
 <br>
 
@@ -64,7 +64,7 @@ layout: "commissioned-songs"
 - [engeki (theatre) | 演劇 || nanou & 25-ji, nightcord de]({{< relref "songs-translations/theatre" >}})
 - [passion at 25:00 | 25時の情熱 || kanzaki iori & 25-ji, nightcord de]({{< relref "songs-translations/passion-at-25" >}})
 
-![alt text](images/niigo/8thsingle.heic)
+![8th single](images/niigo/singles/8thsingle.heic)
 
 <br>
 
@@ -72,14 +72,14 @@ layout: "commissioned-songs"
 - [twilight light | トワイライトライト || toa & 25-ji, nightcord de]({{< relref "songs-translations/twilight-light" >}})
 - [i am the rain | 私は雨 || inabakumori & 25-ji, nightcord de]({{< relref "songs-translations/watashi-wa-ame" >}})
 
-![alt text](images/niigo/9thsingle.heic)
+![9th single](images/niigo/singles/9thsingle.heic)
 
 <br>
 
 10th single
 - [empurple | エンパープル || harumaki gohan & 25-ji, nightcord de]({{< relref "songs-translations/empurple" >}})
-- [--](https://www.youtube.com/watch?v=VUIEJu4ZSUo)
+- [bake no hana | 化けの花 || nakiso & 25-ji, nightcord de]({{< relref "songs-translations/bake-no-hana" >}})
 
-![alt text](images/niigo/10thsingle.heic)
+![10th single](images/niigo/singles/10thsingle.heic)
 
 <br>

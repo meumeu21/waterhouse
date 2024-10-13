@@ -8,6 +8,8 @@ tags:
 
 ### 携帯恋話 (keitai renwa) | cellphone love story | история телефонной любви
 
+![keitai renwa](images/niigo/songs/Keitai_Renwa_Game_Cover.heic)
+
 english translation – [by Thai1210, edited by Violet330 and Chiyo on a project sekai wiki](https://projectsekai.fandom.com/wiki/Keitai_Renwa)
 
 cellphone love story | история телефонной любви
@@ -69,4 +71,4 @@ To just connect with you, so please, | я связываюсь с тобой, т
 
 <br>
 
-{{< youtube kNLyqES4fC8 >}}
+{{< youtube z1LFNuWQI2M >}}

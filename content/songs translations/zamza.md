@@ -8,6 +8,8 @@ tags:
 
 ### ザムザ | zamza | замза
 
+![zamza](images/niigo/songs/Samsa_Game_Cover.heic)
+
 english translation – found in a youtube comment and edited by me :)
 
 zamza | замза

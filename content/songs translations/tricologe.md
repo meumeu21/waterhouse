@@ -8,6 +8,8 @@ tags:
 
 ### トリコロージュ | tricologe | триколог 
 
+![tricologe](images/niigo/songs/Tricologe_Game_Cover.heic)
+
 english translation – [youtube](https://www.youtube.com/watch?v=BPh4m2VnfNo)
 
 tricologe | триколог

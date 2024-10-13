@@ -8,6 +8,8 @@ tags:
 
 ### キティ | kitty | котенок
 
+![kitty](images/niigo/songs/Kitty_Game_Cover.heic)
+
 english translation - [by Shiru on a project sekai wiki](https://projectsekai.fandom.com/wiki/Kitty)
 
 kitty | котенок

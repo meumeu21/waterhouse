@@ -8,6 +8,8 @@ tags:
 
 ### Iなんです (ai nandesu) | i am you (it's me) | это я
 
+![ai nandesu](images/niigo/songs/I_Nandesu_Game_Cover.heic)
+
 english translation - [by Shu horiike on a project sekai wiki](https://projectsekai.fandom.com/wiki/I_Nandesu)
 
 i am you | это я

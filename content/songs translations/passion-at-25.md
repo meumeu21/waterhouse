@@ -8,6 +8,8 @@ tags:
 
 ### 25時の情熱 (25-ji no jounetsu) | passion at 25:00 | любовь в 25:00
 
+![25-ji no jounetsu](images/niigo/songs/25-ji_no_Jounetsu_Game_Cover.heic)
+
 english translation - [by Thai1210, edited by Waffleia on a project sekai fandom](https://projectsekai.fandom.com/wiki/25-ji_no_Jounetsu)
 
 passion at 25:00 | любовь в 25:00

@@ -8,6 +8,8 @@ tags:
 
 ### ロウワー | lower (lower one's eyes) | опустив свои глаза
 
+![lower](images/niigo/songs/Lower_Game_Cover.heic)
+
 english translation – [translation on Vocaloid Lyrics Wiki](https://vocaloidlyrics.fandom.com/wiki/ロウワー_(Lower))
 
 lower one's eyes | опустив свои глаза
@@ -67,7 +69,7 @@ I'll make sure this feeling no one else knows, and everything I live for, is rig
 
 <br>
 
-{{< youtube 3sEptl-psU0 >}}
+{{< youtube 16M9oC-a5bY >}}
 
 notes:
 

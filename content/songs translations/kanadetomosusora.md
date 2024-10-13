@@ -8,6 +8,8 @@ tags:
 
 ### カナデトモスソラ | kanadetomosusora (melody-lit sky) | освещенное мелодией небо
 
+![kanadetomosusora](images/niigo/songs/Kanadetomosusora_Game_Cover.heic)
+
 english translation - [by Shiopaca, edited by thatjacket on a project sekai wiki](https://projectsekai.fandom.com/wiki/Kanadetomosusora)
 
 melody-lit sky | освещенное мелодией небо

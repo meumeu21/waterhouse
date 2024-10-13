@@ -8,6 +8,8 @@ tags:
 
 ### 演劇 | engeki (theatre) | театр
 
+![engeki](images/niigo/songs/Engeki_Game_Cover.heic)
+
 english translation - [by melanhoeddie nd Violet on a project sekai wiki](https://projectsekai.fandom.com/wiki/Engeki)
 
 theatre | театр
@@ -102,4 +104,4 @@ Open your eyes! | откройте свои глаза!
 
 <br>
 
-{{< youtube gJqsFNNCIX0 >}}
+{{< youtube U_RhSRVL6GI >}}

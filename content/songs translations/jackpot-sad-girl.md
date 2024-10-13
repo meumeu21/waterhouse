@@ -8,6 +8,8 @@ tags:
 
 ### ジャックポットサッドガール | jackpot sad girl | грустная джекпот девушка
 
+![jackpot sad girl](images/niigo/songs/Jackpot_Sad_Girl_Game_Cover.heic)
+
 english translation - [by Serene_Snowfall on a project sekai wiki](https://projectsekai.fandom.com/wiki/Jackpot_Sad_Girl)
 
 jackpot sad girl | грустная девушка с джекпотом

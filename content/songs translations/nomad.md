@@ -8,6 +8,8 @@ tags:
 
 ### ノマド | nomad | странник
 
+![nomad](images/niigo/songs/Nomad_Game_Cover.heic)
+
 english translation – [youtube](https://www.youtube.com/watch?v=mKfwzOgorXs)
 
 nomad | странник
@@ -67,4 +69,4 @@ That's all | вот что я хотела сказать
 
 <br>
 
-{{< youtube mKfwzOgorXs >}}
+{{< youtube 5uKm9Srhuz4 >}}

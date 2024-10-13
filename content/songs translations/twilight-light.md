@@ -8,6 +8,8 @@ tags:
 
 ### トワイライトライト | twilight light | сумеречные огни
 
+![twilight light](images/niigo/songs/Twilight_Light_Game_Cover.heic)
+
 english translation - [by Thai1210 on a project sekai wiki](https://projectsekai.fandom.com/wiki/Twilight_Light)
 
 twilight light | сумеречные огни

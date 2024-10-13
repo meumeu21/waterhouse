@@ -8,6 +8,8 @@ tags:
 
 ### 再生 (saisei) | reborn | возрождение
 
+![saisei](images/niigo/songs/Saisei_Game_Cover.heic)
+
 english translation - [by Serene_Snowfall](https://projectsekai.fandom.com/wiki/Saisei)
 
 reborn | возрождение
@@ -41,4 +43,4 @@ Now, if I can still go back— | теперь, смогу ли я вернуть
 
 <br>
 
-{{< youtube LLoHF639Jes >}}
+{{< youtube qs6EKSnihh8 >}}

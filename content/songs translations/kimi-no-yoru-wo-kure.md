@@ -8,6 +8,8 @@ tags:
 
 ### 君の夜をくれ | kimi no yoru wo kure (give me your night) | подари мне свою ночь
 
+![kimi no yoru wo kure](images/niigo/songs/Kimi_no_Yoru_wo_Kure_Game_Cover.heic)
+
 english translation - [by Luna Amatista on a project sekai wiki](https://projectsekai.fandom.com/wiki/Kimi_no_Yoru_wo_Kure)
 
 give me your night | подари мне свою ночь
@@ -47,4 +49,4 @@ Give me your night. | подаренной тобой ночи
 
 <br>
 
-{{< youtube WnteC9NvDKQ >}}
+{{< youtube B9GlQOI6HKY >}}

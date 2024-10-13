@@ -8,6 +8,8 @@ tags:
 
 ### 悔やむと書いてミライ (kuyamu to kaite mirai) | composing the future (write the future with regret) | создавать будущее сожалениями
 
+![kuyamu to kaite mirai](images/niigo/songs/Kuyamu_to_Kaite_Mirai_Game_Cover.heic)
+
 english translation - [by Shiru on a project sekai wiki](https://projectsekai.fandom.com/wiki/Kuyamu_to_Kaite_Mirai)
 
 write the future with regret | создавать будущее сожалениями
@@ -77,4 +79,4 @@ Please, give me regrets, so that I can no longer dream. | пожалуйста, 
 
 <br>
 
-{{< youtube an_gDTrVdHo >}}
+{{< youtube jUyCN1229Ws >}}

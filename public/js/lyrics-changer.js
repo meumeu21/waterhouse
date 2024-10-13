@@ -13,11 +13,21 @@ function showTableVersion(version) {
     }
 
     const allPElements = document.querySelectorAll('p');
-    const translationCredit = allPElements[2].textContent;
 
-    if (translationCredit.includes('english translation')) {
+    const searchTextEng = "english translation";
+    const searchTextOri = "official lyrics";
+
+    let matchingPElement = null;
+
+    allPElements.forEach((pElement) => {
+        if (pElement.textContent.trim().includes(searchTextEng) || pElement.textContent.trim().includes(searchTextOri)) {
+            matchingPElement = pElement;
+        }
+    });
+
+    if (matchingPElement.textContent.includes('english translation')) {
         toggle3.textContent = 'english translation';
-    } else if (translationCredit.includes('official lyrics')) {
+    } else if (matchingPElement.textContent.includes('official lyrics')) {
         toggle3.textContent = 'original text';
     }
 
@@ -29,7 +39,6 @@ function showTableVersion(version) {
         toggle4.textContent = 'english translation';
     }
 
-    // Reset all columns to be visible
     for (let i = 0; i < rows.length; i++) {
         for (let j = 0; j < rows[i].cells.length; j++) {
             rows[i].cells[j].style.display = '';
@@ -39,7 +48,6 @@ function showTableVersion(version) {
     if (version === 'full') {
         table.style.width = '100%';
     } else {
-        // Hide columns based on the version
         table.style.width = '60%';
         table.style.marginLeft = 'auto';
         table.style.marginRight = 'auto';

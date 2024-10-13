@@ -8,6 +8,8 @@ tags:
 
 ### バグ | bug | баг
 
+![bug](images/niigo/songs/Bug_Game_Cover.heic)
+
 english translation – [sekaipedia translation](https://www.sekaipedia.org/wiki/Bug)
 
 bug | баг
