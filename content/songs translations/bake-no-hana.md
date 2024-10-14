@@ -10,7 +10,7 @@ tags:
 
 ![bake no hana](images/niigo/songs/Bake_no_Hana_Game_Cover.heic)
 
-english translation - [by Thai1210](https://projectsekai.fandom.com/wiki/Bake_no_Hana#Romaji) and [Vocaloid Songs Lyrics](https://vocaloidlyrics.fandom.com/wiki/化けの花_(Bake_no_Hana)) (edited by me)
+english translation - [by Thai1210](https://projectsekai.fandom.com/wiki/Bake_no_Hana#Romaji) and [Vocaloid Lyrics](https://vocaloidlyrics.fandom.com/wiki/化けの花_(Bake_no_Hana)) (edited by me)
 
 bake no hana | цветок обмана
 --|--
@@ -43,10 +43,20 @@ It's just like a flower of disguise that had bloomed. | как будто цве
 I can't say anything else, but I can't erase it, | я ничего больше не могу сказать, но я не могу стереть его,
 No matter how ugly my makeup seems like. | мой макияж, неважно насколько плохо он выглядит
 |||
-If you can't seem to understand the future, | если ты не поймешь будущего,
+If I can't be understood in the future, | если меня не поймут в будущем,
 Then this flower of disguise will disappear soon enough here. | тогда этот цветок обмана скоро отсюда исчезнет
 To put an end to my punishment for having been born | чтобы прекратить наказание за моё рождение,
 I'll stop breathing now. | сейчас, я перестану дышать
 Ah, I'm fed up with this | уф, я устала…
 
 <br>
+
+
+
+notes:
+
+does anyone hear bells ringing? no? just me? 
+
+примечания:
+
+кто-нибудь слышит звон колоколов? нет? только я слышу?

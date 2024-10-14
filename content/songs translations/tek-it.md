@@ -56,5 +56,10 @@ into view | ни твоё лицо
 
 {{< youtube 7RWbq-lbBlk >}}
 
-from the youtube comment under the video of cafuné explaining song "tek it": 
+from the youtube comment under the video of cafuné explaining song "tek it":  
+
 „fun fact: tek it gets its name from a technique in smash bros known as "teching". it means to recover right before hitting the floor or a wall in the game so you dont trip or bounce off the wall. so if you "tech it" you can recover in whatever is going on in your life.“
+
+из комментария на YouTube под видео cafuné, объясняющего песню «tek it»:  
+
+«забавный факт: tek it получила своё название от техники в Smash Bros, известной как «teching». это означает, что нужно прийти в себя прямо перед тем, как удариться об пол или стену в игре, чтобы не споткнуться и не отскочить от стены. поэтому, если вы «tech it», вы сможете выдержать всё, что происходит в вашей жизни.»
