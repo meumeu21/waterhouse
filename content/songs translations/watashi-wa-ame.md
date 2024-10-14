@@ -15,20 +15,20 @@ english translation - [by Thai210 on a project sekai wiki](https://projectsekai.
 i am the rain | я – дождь
 --|--
 Who am I? | кто я?
-The pity you have for me, | жалость, которую ты ко мне испытываешь,
+The pity you have for me, | ты испытываешь ко мне жалость,
 Within the night sky, I lost my name. | в пределах ночного неба; я потеряла своё имя
 |||
 The scenery lurking beneath | пейзаж, скрывающийся под
 The motionless surface of the water, | недвигающейся поверхностью воды,
-While still unaware, *(Even if I have become a cloud of fog,)* | всё ещё не осознающий *(даже если я стала облаком тумана)*
-A cloud that's adrift, *(Even though I was fine with this...)* | плывущее по небу облако *(даже если меня это устраивало…)*
+While still unaware, *(Even if I have become a cloud of fog,)* | который я не осознавала *(даже если я стала облаком тумана)*,
+A cloud that's adrift, *(Even though I was fine with this...)* | из-за плывущего по небу облака *(даже если меня это устраивало…)*
 |||
 *(Even though I didn't mind this)* until yesterday, | *(даже если я об этом не думала)* до вчерашнего дня,
-A cloud that's adrift... | плывущее по небу облако…
+A cloud that's adrift... | плывущие по небу облака не исчезали…
 |||
-Why am I falling straight down | почему я падаю глубоко вниз,
-In order to look for someone's hand | чтобы найти чью-то руку,
-While taking in as much of the sky as possible? | при этом любуясь как можно большей частью неба?
+Why am I falling straight down | почему, падая глубоко вниз,
+In order to look for someone's hand | чтобы схватиться за чью-то руку,
+While taking in as much of the sky as possible? | я любовалась как можно большей частью неба? 
 |||
 I'm the rain, *(rain, rain, rain)* | я – дождь *(дождь, дождь, дождь)*
 I will know that I was repelled. | я узнаю, что меня отвергли
@@ -40,8 +40,8 @@ Of the pain that troubles the earth. | боли, которая беспокои
 |||
 I'm the rain, | я – дождь, 
 I obscure the world *(dawn, dawn)* | я затемняю мир *(рассвет, рассвет)*,
-While being guided by the dawn, *(rain, rain, rain)* | пока меня ведёт рассвет *(дождь, дождь, дождь)*
-Until I find out the secret ingredient | до того как я узнаю секретный ингредиент
+While being guided by the dawn, *(rain, rain, rain)* | пока меня ведёт рассвет *(дождь, дождь, дождь)*,
+Until I find out the secret ingredient | я постараюсь узнать секретный ингредиент
 Of the sea that was washed ashore. | моря, выброшенного на берег
 |||
 The thunder that hid the stars, | гроза, которая закрыла собой звёзды,
@@ -61,7 +61,7 @@ I find the stars that decorate the night sky. | но я нахожу звёзд�
 Floating in the sky, leaving marks on the ground, | плыву в небе, оставляя после себя на земле следы,
 Disappearing then becoming overflowing, | исчезаю, затем переполняюсь
 If I could have painted it, nothing would have happened, | если бы я смогла это нарисовать, ничего бы не произошло,
-The climate of this world changes. | кроме того, что климат этого мира бы изменился
+The climate of this world changes. | ведь климат этого мира изменился
 |||
 I'm the rain, *(rain rain, rain)* | я – дождь *(дождь, дождь, дождь)*
 I will know that I dripped down. | я узнаю, что я плакала
@@ -73,13 +73,13 @@ Of the things that troubles the earth. | боли, которая беспоко
 |||
 I'm the rain, | я – дождь, 
 I obscure the world *(dawn, dawn)* | я затемняю мир *(рассвет, рассвет)*,
-While being guided by the dawn, *(rain, rain, rain)* | пока меня ведёт рассвет *(дождь, дождь, дождь)*
-Until I become the secret ingredient | до того как я стану секретным ингредиентом
+While being guided by the dawn, *(rain, rain, rain)* | пока меня ведёт рассвет *(дождь, дождь, дождь)*,
+Until I become the secret ingredient | я стану секретным ингредиентом
 Of the sea that was washed ashore. | моря, выброшенного на берег
 |||
 I'm the rain... | я – дождь…
 |||
-Before you arrive there, | перед тем как ты прибудешь туда,
+Before you arrive there, | перед тем как ты вернёшься сюда,
 Don't forget our rehearsal. | не забывай наши репетиции
 Standing there, facing each other in the calm sea, | мы стоим лицом друг к другу в спокойном море,
 Differing scenery, yet the same pattern, | в таких разных, но похожих пейзажах,
