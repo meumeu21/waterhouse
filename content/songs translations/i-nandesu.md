@@ -12,57 +12,113 @@ tags:
 
 english translation - [by Shu horiike on a project sekai wiki](https://projectsekai.fandom.com/wiki/I_Nandesu)
 
-i am you | это я
---|--
-All life is ridiculously pretty | вся жизнь нелепо красива
-Not being able to be what we are | мы не можем быть тем, что мы из себя представляем
-It's an unprecedented battle | эта беспрецедентная битва
-In human history | в людской истории —
-That's what "I" am | вот, чем «я» являюсь
-|||
-In an unprecedented brawl | в беспрецедентной драке
-Dancing all night with the chain of coincidence and despair | танцуем всю ночь с цепью совпадения и отчаяния 
-In a chorus of the arguments against happiness | в хоре спора против счастья
-Adding blind faith and treachery | добавляем слепую веру и предательство 
-|||
-Joy, confusion and thirst | радость, смятение и жажда
-You can't run away from the choices you've made | нельзя убежать от сделанных тобой выборов
-Turn it around, make an epic recovery | переверни их в свою пользу, триумфально вернись
-Come on, raise your voice in the night | давай, повысь свой голос ночью
-|||
-All life is ridiculously pretty | вся жизнь нелепо красива
-Unaware that we are what we are | мы не понимаем, чем мы на самом деле являемся
-It's an unprecedented battle | эта беспрецедентная битва
-In human history | в людской истории —
-That's what "I" am | вот, чем «я» являюсь
-|||
-In an unprecedented upheaval | в беспрецедентном восстании
-Captivated by idolatrous angels | в плену поклоняющихся идолам ангелов
-The retribution debate fails to reach an agreement | мы не можем прийти к соглашению в дебатах о возмездии
-Ordinary people's interpretations are very sad | простые людские объяснения – очень унылые
-|||
-Blessings, liars, even sadness | благословения, лжецы, даже горе
-If it's what you want, it won't go away | если это то, чего ты желаешь, то оно не уйдёт
-Repeating reincarnation | повторяющаяся реинкарнация 
-Now wake up in your dream | теперь, проснись в собственной мечте
-|||
-All life is ridiculously pretty | вся жизнь нелепо красива
-Being upside down and godlike | мы подвешены, но богоподобны
-It's an unprecedented failure | этот беспрецедентный проигрыш
-In human history | в людской истории —
-That's what "I" am | вот, чем «я» являюсь
-|||
-All life is ridiculously pretty | вся жизнь нелепо красива
-Not being able to be what we are | мы не можем быть тем, что мы из себя представляем
-Height of hubris | с высоты своего высокомерия,
-Well, seems like none of it | наверное, с этим уже
-Can't be helped then | ничего не поделаешь
-|||
-All life is ridiculously pretty | вся жизнь нелепо красива
-Struggling and then it stops raining | сначала изо всех сил боремся, а затем дождь прекращается
-It's an unprecedented brilliance | это беспрецедентное великолепие
-In human history | в людской истории —
-That's what love is | вот, чем любовь является
+<pre id="column1">
+it's me
+
+All life is ridiculously pretty
+Not being able to be what we are
+It's an unprecedented battle
+In human history
+That's what "I" am
+
+In an unprecedented brawl
+Dancing all night with the chain of coincidence and despair
+In a chorus of the arguments against happiness
+Adding blind faith and treachery
+
+Joy, confusion and thirst
+You can't run away from the choices you've made
+Turn it around, make an epic recovery
+Come on, raise your voice in the night
+
+All life is ridiculously pretty
+Unaware that we are what we are
+It's an unprecedented battle
+In human history
+That's what "I" am
+
+In an unprecedented upheaval
+Captivated by idolatrous angels
+The retribution debate fails to reach an agreement
+Ordinary people's interpretations are very sad
+
+Blessings, liars, even sadness
+If it's what you want, it won't go away
+Repeating reincarnation
+Now wake up in your dream
+
+All life is ridiculously pretty
+Being upside down and godlike
+It's an unprecedented failure
+In human history
+That's what "I" am
+
+All life is ridiculously pretty
+Not being able to be what we are
+Height of hubris
+Well, seems like none of it
+Can't be helped then
+
+All life is ridiculously pretty
+Struggling and then it stops raining
+It's an unprecedented brilliance
+In human history
+That's what love is
+</pre>
+
+<pre id="column2">
+это я
+
+вся жизнь нелепо красива
+мы не можем быть тем, что мы из себя представляем
+эта беспрецедентная битва
+в людской истории —
+вот, чем «я» являюсь
+
+в беспрецедентной драке
+танцуем всю ночь прикованные к совпадениям и отчаянию
+в хоре спора против счастья
+добавляем слепую веру и предательство 
+
+радость, смятение и жажда –
+нельзя убежать от сделанных тобой выборов
+переверни их в свою пользу, триумфально вернись
+давай, повысь свой голос ночью
+
+вся жизнь нелепо красива
+мы не понимаем, чем мы на самом деле являемся
+эта беспрецедентная битва
+в людской истории —
+вот, чем «я» являюсь
+
+в беспрецедентном восстании
+в плену поклоняющихся идолам ангелов
+мы не можем прийти к соглашению в дебатах о возмездии
+простые людские объяснения – очень унылые
+
+благословения, лжецы, даже горе – 
+если это то, чего ты желаешь, то оно никуда не денется
+постоянно перерождаемся
+теперь, проснись в собственной мечте
+
+вся жизнь нелепо красива
+мы подвешены, но богоподобны
+этот беспрецедентный проигрыш
+в людской истории —
+вот, чем «я» являюсь
+
+вся жизнь нелепо красива
+мы не можем быть тем, что мы из себя представляем
+с высоты своего высокомерия,
+наверное, даже оно
+уже ничего не поделает
+
+вся жизнь нелепо красива
+сначала изо всех сил боремся, а затем дождь прекращается
+это беспрецедентное великолепие
+в людской истории —
+вот, чем любовь является
+</pre>
 
 <br>
 

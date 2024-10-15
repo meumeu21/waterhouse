@@ -9,48 +9,94 @@ tags:
 
 official lyrics – [Genius](https://genius.com/Cafune-tek-it-lyrics)
 
-tek it | выдержать
---|--
-where did you learn what it means to reciprocate? | где ты узнал, что такое «отвечать взаимностью»?
-and how much can i be expected to tolerate? | и сколько я могу вытерпеть?
-so i started to think about the plans i made | так что я начала думать о возможных планах,
-the debt unpaid | о незакрытых долгах
-and you just can’t call a spade a spade | а ты просто не можешь называть вещи своими именами 
-|||
-i watch the moon, let it run my mood | я наблюдаю за луной — она изменяет мое настроение
-can't stop thinking of you | не могу перестать думать о тебе
-i watch you *(now i let it go)* | я наблюдаю за тобой *(теперь отпускаю)*
-*(and i watch as things play out like)* | *(и наблюдаю за тем, как всё будет меняться)*
-so long, nice to know you, i'll be moving on | прощай, было приятно тебя знать, я двигаюсь дальше
-|||
-we started off in such a nice place | наши отношения начинались так хорошо
-we were talking the same language | мы говорили на одном языке
-i open, and i'm closing | но я и начинала, и заканчивала
-you can't stand the thought | ты не принимаешь мысль о том,
-of a real beating heart, you'd be holding | что у тебя в руках живое бьющееся сердце,
-having trouble owning, | которое ты не можешь держать,
-and admit that i am hoping | и что я до сих пор надеялась на тебя
-|||
-i watch the moon, let it run my mood | я наблюдаю за луной — она изменяет мое настроение
-can't stop thinking of you | не могу перестать думать о тебе
-i watch you *(now i let it go)* | я наблюдаю за тобой *(теперь отпускаю)*
-*(and i watch as things play out like)* | *(и наблюдаю за тем, как всё будет меняться)*
-so long, nice to know you, i'll be moving on | прощай, было приятно тебя знать, я двигаюсь дальше
-|||
-you, yeah i always know the truth | ты, да, я всегда знала правду
-but i can't just say it to you | но я просто не могла тебе сказать
-yeah, i know the truth | да, я знаю правду
-i knew, yeah i always knew the truth | я знала, да, я всегда знала правду
-but i can't just say it to you | но я просто не могла тебе сказать
-yeah, i know the truth | да, я знаю правду
-|||
-i never thought we'd see it through | я никогда не думала, что мы бы преодолели это
-i never could rely on you | я никогда не могла на тебя полагаться
-and few times your face came into view | и лишь несколько раз я видела твоё лицо
-into view | твоё лицо
-|||
-i’m not into you | я больше не люблю ни тебя,
-into view | ни твоё лицо
+<pre id="column1">
+tek it
+
+where did you learn what it means to reciprocate?
+and how much can i be expected to tolerate?
+so i started to think about the plans i made
+the debt unpaid
+and you just can’t call a spade a spade
+
+i watch the moon, let it run my mood
+can't stop thinking of you
+i watch you <i>(now i let it go)</i>
+<i>(and i watch as things play out like)</i>
+so long, nice to know you, i'll be moving on
+
+we started off in such a nice place
+we were talking the same language
+i open, and i'm closing
+you can't stand the thought
+of a real beating heart, you'd be holding
+having trouble owning,
+and admit that i am hoping
+
+i watch the moon, let it run my mood
+can't stop thinking of you
+i watch you <i>(now i let it go)</i>
+<i>(and i watch as things play out like)</i>
+so long, nice to know you, i'll be moving on
+
+you, yeah i always know the truth
+but i can't just say it to you
+yeah, i know the truth
+i knew, yeah i always knew the truth
+but i can't just say it to you
+yeah, i know the truth
+
+i never thought we'd see it through
+i never could rely on you
+and few times your face came into view
+into view
+
+i’m not into you
+into view
+</pre>
+<pre id="column2">
+выдержать
+
+где ты узнал, что такое «отвечать взаимностью»?
+и сколько я могу вытерпеть?
+так что я начала думать о возможных планах,
+о незакрытых долгах
+а ты просто не можешь называть вещи своими именами 
+
+я наблюдаю за луной — она изменяет мое настроение
+не могу перестать думать о тебе
+я наблюдаю за тобой <i>(теперь отпускаю)</i>
+<i>(и наблюдаю за тем, как всё будет меняться)</i>
+прощай, было приятно тебя знать, я двигаюсь дальше
+
+наши отношения начинались так хорошо
+мы говорили на одном языке
+но я и начинала, и заканчивала
+ты не принимаешь мысль о том,
+что у тебя в руках живое бьющееся сердце,
+которое ты не можешь держать,
+и что я до сих пор надеялась на тебя
+
+я наблюдаю за луной — она изменяет мое настроение
+не могу перестать думать о тебе
+я наблюдаю за тобой <i>(теперь отпускаю)</i>
+<i>(и наблюдаю за тем, как всё будет меняться)</i>
+прощай, было приятно тебя знать, я двигаюсь дальше
+
+ты, да, я всегда знала правду
+но я просто не могла тебе сказать
+да, я знаю правду
+я знала, да, я всегда знала правду
+но я просто не могла тебе сказать
+да, я знаю правду
+
+я никогда не думала, что мы бы преодолели это
+я никогда не могла на тебя полагаться
+и лишь несколько раз я видела твоё лицо
+твоё лицо
+
+я больше не люблю ни тебя,
+ни твоё лицо
+</pre>
 
 <br>
 
