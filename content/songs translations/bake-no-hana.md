@@ -47,11 +47,11 @@ If I can't be understood in the future, | если меня не поймут в
 Then this flower of disguise will disappear soon enough here. | тогда этот цветок обмана скоро отсюда исчезнет
 To put an end to my punishment for having been born | чтобы прекратить наказание за моё рождение,
 I'll stop breathing now. | сейчас, я перестану дышать
-Ah, I'm fed up with this | уф, с меня хватит
+Ah, I'm fed up with this | аа, с меня хватит
 
 <br>
 
-{{< youtube UyvMU2dRljo >}}
+{{< youtube UFRIsspP9UE >}}
 
 notes:
 

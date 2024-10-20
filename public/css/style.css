@@ -1,20 +1,6 @@
 html {
     overflow-y: scroll; 
     -moz-osx-font-smoothing: grayscale;}
-:root {
-    --bgcolor: #f0f0f0; 
-    --fontcolor: #333;
-    --linkcolor: #c370ff; 
-    --visitedcolor: #a321ff; 
-    --precolor: #fff; 
-    --prebgcolor: #000;
-    --button-bgcolor: black;
-    --button-fontcolor: white;
-    --table-bgcolor: #c7aedd;
-    --table-empty-bgcolor: #c5abdeb1;
-    --table-selected-bgcolor: #9466a8;
-    --table-edges: #636363;
-    --hoverbutton: #323232;}
 body.light-theme {
     --bgcolor: #f0f0f0; 
     --fontcolor: #333;
@@ -49,7 +35,7 @@ body {max-width:800px;
     font: 16px/1.5 "pixfont", monospace;
     word-wrap: break-word;
     color: var(--fontcolor); 
-    background: var(--bgcolor)}
+    background-color: var(--bgcolor)}
 a:link {color: var(--linkcolor)}
 a:visited {color: var(--linkcolor)}
 a:hover {color: var(--visitedcolor)}
