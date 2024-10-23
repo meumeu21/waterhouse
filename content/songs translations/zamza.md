@@ -76,3 +76,11 @@ Okay? | хорошо?»
 <br>
 
 {{< youtube cchy8Tl5Oa8 >}}
+
+notes:
+
+i don't really know how should the last verse of the song should go but i always found the last verse to be reassuring, not scolding the person to whom the song is addressed. "don't tell me you're happy with this reality, okay?" for me sounds like "please understand that we're here for you and are willing to listen whenever you want to say anything, right?"
+
+примечания:
+
+я действительно не знаю, как должен звучать последний куплет песни, но мне всегда казалось, что последний куплет должен успокаивать, а не ругать человека, которому адресована песня. «больше не ври, что тебя все устраивает, ладно?» для меня это звучит как «пожалуйста, пойми, что мы здесь для тебя и готовы выслушать тебя, когда ты захочешь чем-либо поделиться, верно?»

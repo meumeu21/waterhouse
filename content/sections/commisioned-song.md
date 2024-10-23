@@ -1,6 +1,6 @@
 ---
 title: "commisioned songs | 25-ji, nightcord de."
-layout: "commissioned-songs"
+layout: "blank-single"
 ---
 
 1st single

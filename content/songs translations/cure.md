@@ -7,7 +7,7 @@ tags:
 
 ### cure | исцеление
 
-english translation – [Genius](https://genius.com/Genius-english-translations-akugetsu-and-park-byeong-hoon-cure-vivinos-alien-stage-ost-pt7-english-translation-lyrics)
+english translation – [Alien Stage Wiki](https://alienstage.fandom.com/wiki/Cure)
 
 cure | исцеление
 --|--
@@ -77,5 +77,3 @@ i really do adore this song, it makes me feel even worse about them.
 но иван влюблен в тилла. он в своем втором припеве поет о нем и иллюстрирует то, как он видит их отношения.  
 и в конце иван не выигрывает, но все равно признается тиллу самым страшным способом, так, чтобы тилл никогда его не забыл.  
 я действительно в любви с этой песней, она заставляет меня чувствовать их отношения еще хуже.
-
-

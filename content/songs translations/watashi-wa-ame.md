@@ -88,3 +88,11 @@ We check each other's answers. | мы проверяем ответы друг �
 <br>
 
 {{< youtube 91E_W8JhSjs >}}
+
+notes:
+
+it is the calmest of all ena's focus songs. makes sense, because ena is finally arriving ashore from her journey to find her true purpose in life. she understands now that even if she is destined to be forever longing and in pain (she's the rain that pains the earth, not the ocean of talent like her father), she's beautiful and must stand just like the rain should exist on the earth.
+
+примечания:
+
+это самая спокойная из всех фокус-песен эны. дейтствительно, так как эна наконец-то сходит на берег после своего путешествия в море, чтобы найти свою истинную цель в жизни. теперь она понимает, что даже если ей суждено вечно тосковать и страдать (она дождь, терзающий землю, а не океан талант, как ее отец), она прекрасна и должна оставаться той же, как дождь должен в любом случае существовать на земле.

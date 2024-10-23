@@ -123,3 +123,11 @@ That's what love is
 <br>
 
 {{< youtube lMXlOPGjwUI >}}
+
+notes:
+
+after the 5th ena event this song makes even more sense. even though her dad from the start knew that she will struggle a lot if she becomes an artist, she is her, she is everyone and everything. he painted her like a flower, beautiful and alone, yet ena paints herself as a flower field with many different flowers, because she is her and she is everything that she wants to be.
+
+примечания:
+
+после 5-го ивента эны эта песня приобретает еще больше смысла. хотя ее отец с самого начала знал, что ей придется много бороться, если она станет художницей, она — это она, она — всё и вся. он нарисовал ее цветком, красивым и одиноким, а эна рисует себя как цветочное поле со множеством различных цветов, потому что она — это она, и она — всё, чем она хочет быть.
