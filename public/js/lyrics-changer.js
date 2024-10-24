@@ -152,13 +152,13 @@ function showTableVersion(version) {
 function moveDivContentToColumn(columnDiv, columnIndex) {
     if (!columnDiv) return; // Если div не найден, выходим
 
-    const lines = columnDiv.innerText.split('\n'); // Разделяем содержимое div по строкам
+    const lines = columnDiv.innerHTML.split('\n'); // Разделяем содержимое div по строкам
     const table = document.getElementById('tr-table');
     const rows = table.querySelectorAll('tbody tr');
 
     // Переносим первую строку в заголовок столбца
     const th = table.querySelectorAll('thead th')[columnIndex];
-    th.textContent = lines[0] || ''; // Первая строка идет в th
+    th.innerHTML = lines[0] || ''; // Первая строка идет в th
 
     let sliceStart = 1;
     if (lines[1] === '') {
@@ -174,7 +174,7 @@ function moveDivContentToColumn(columnDiv, columnIndex) {
             }
         }
         const currentRow = table.querySelectorAll('tbody tr')[index];
-        currentRow.cells[columnIndex].textContent = line || ''; // Заполняем строки
+        currentRow.cells[columnIndex].innerHTML = line || ''; // Заполняем строки с сохранением HTML
     });
 }
 

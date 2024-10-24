@@ -19,7 +19,7 @@ With the whole world in your sad eyes
 My savior, beautiful soul
 I don’t believe, you are a liar
 When our darknesses overlap
-(Let me take it all away)
+<i>(Let me take it all away)</i>
 
 Ruler of my heart, ruler of my heart, ruler of my heart
 You are forever beautiful
@@ -27,7 +27,7 @@ Ruler of my heart, ruler of my heart, ruler of my heart
 
 Thе endless walls
 A fall with no ground
-In a single momеnt (breaking down)
+In a single momеnt <i>(breaking down)</i>
 I go blind and deaf
 My world collapsing
 My savior, beautiful lady
@@ -53,7 +53,7 @@ Ruler of my heart, ruler of my heart, ruler of my heart
 моя спасительница, прекрасная душа,
 я не верю, (что) ты лжёшь,
 когда наши тьмы пересекутся,
-(позволь мне тебя от всего избавить).
+<i>(позволь мне тебя от всего избавить)</i>.
 
 правительница моего сердца, правительница моего сердца, правительница моего сердца
 ты навсегда прекрасна
@@ -61,7 +61,7 @@ Ruler of my heart, ruler of my heart, ruler of my heart
 
 бесконечные стены.
 бездонно падая,
-в один момент (разрушаясь),
+в один момент <i>(разрушаясь)</i>,
 я ослеплен и оглушён,
 мой мир рушится.
 моя спасительница, несчастная леди,
