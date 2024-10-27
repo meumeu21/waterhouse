@@ -1,11 +1,10 @@
 document.addEventListener("DOMContentLoaded", function () {
-    showTableVersion('full');
+    textLoadedToTable();
     // После завершения всех изменений вызываем событие "lyricsChanged"
     document.dispatchEvent(new Event('lyricsChanged'));
 });
 
-function showTableVersion(version) {
-
+function textLoadedToTable() {
     const smartTable = document.getElementById('tr-table');
     const tableCount = document.querySelectorAll("table").length;
     const table = (tableCount > 1) ? 
@@ -38,27 +37,95 @@ function showTableVersion(version) {
         toggle3.textContent = 'original text';
     }
 
-    const cyrillicRegex = /[\u0400-\u04FF]/;
     const heading = document.querySelector('h3').textContent;
-    const headingParts = heading.split('|')
+    const headingParts = heading.split('|');
+    const languageSettings = [];
+
+    // Определяем языки по частям заголовка
+    headingParts.forEach((part, index) => {
+        const trimmedPart = part.trim();
+        if (/[\u0400-\u04FF]/.test(trimmedPart)) {
+            languageSettings[index] = 'ru';
+        } else if (/[\uAC00-\uD7AF]/.test(trimmedPart)) { 
+            languageSettings[index] = 'ko';
+        } else if (/[\u3040-\u30FF\u4E00-\u9FFF\uAC00-\uD7AF]/.test(trimmedPart)) {
+            languageSettings[index] = 'ja';
+        } else {
+            languageSettings[index] = 'en';
+        }
+    });
+
+    const cyrillicRegex = /[\u0400-\u04FF]/;
     const cyrillicHeading = headingParts[0].trim()
     if (cyrillicRegex.test(cyrillicHeading)) {
         toggle4.textContent = 'english translation';
     }
-
+    
     if (tableCount === 1) {
         const column0 = document.getElementById('column0');
         const column1 = document.getElementById('column1');
         const column2 = document.getElementById('column2');
 
+        if (column0) column0.style.display = 'none';
+        if (column1) column1.style.display = 'none';
+        if (column2) column2.style.display = 'none';
+
         if (!column0) {
             toggle2.style.display = 'none'; // Скрываем toggle2, если column0 отсутствует
         }
 
-        moveDivContentToColumn(column0, 0);
-        moveDivContentToColumn(column1, 1);
-        moveDivContentToColumn(column2, 2);
-    
+        if (!column0) {
+            moveDivContentToColumn(column1, 1, languageSettings[0]);
+            moveDivContentToColumn(column2, 2, languageSettings[1]);
+            for (let i = 0; i < rows.length; i++) {
+                rows[i].cells[0].style.display = 'none'; // Скрываем первый столбец, если column0 отсутствует
+            }
+        } else {
+            moveDivContentToColumn(column0, 0, languageSettings[0]);
+            moveDivContentToColumn(column1, 1, languageSettings[1]);
+            moveDivContentToColumn(column2, 2, languageSettings[2]);
+        }
+    } else {
+        smartTable.style.display = 'none';
+
+        if (cellCount === 2) {
+            toggle2.style.display = 'none';  
+        }
+
+        // Получаем второй <thead> и второй <tbody>
+        const thead = table.querySelector('thead');
+        if (thead) {
+            const headerCells = thead.querySelectorAll('th');
+            headerCells.forEach((cell, index) => {
+                cell.setAttribute('lang', languageSettings[index]);
+            });
+        }
+        // Назначение lang для ячеек в <tbody>
+        const rows = table.querySelectorAll('tbody tr');
+        rows.forEach(row => {
+            row.querySelectorAll('td').forEach((cell, index) => {
+                cell.style.display = ''; // Отобразим ячейку
+                cell.setAttribute('lang', languageSettings[index]); // Назначим lang для каждой ячейки
+            });
+        });
+    }
+}
+
+function showTableVersion(version) {
+
+    const smartTable = document.getElementById('tr-table');
+    const tableCount = document.querySelectorAll("table").length;
+    const table = (tableCount > 1) ? 
+        document.querySelectorAll("table")[1] :
+        smartTable;
+    const rows = table.rows;
+
+    const firstRow = table.rows[0];  
+    const cellCount = firstRow.cells.length;  
+
+    if (tableCount === 1) {
+        const column0 = document.getElementById('column0');
+
         if (version === 'full') {
             for (let i = 0; i < rows.length; i++) {
                 for (let j = 0; j < rows[i].cells.length; j++) {
@@ -70,9 +137,6 @@ function showTableVersion(version) {
                 }
             }
             table.style.width = '100%';
-            if (column0) column0.style.display = 'none';
-            if (column1) column1.style.display = 'none';
-            if (column2) column2.style.display = 'none';
         } else {
             // Показываем только выбранные столбцы при нажатии на toggle-кнопки
             table.style.width = '60%';
@@ -102,11 +166,6 @@ function showTableVersion(version) {
             }
         }
     } else {
-        smartTable.style.display = 'none';
-        if (cellCount === 2) {
-            toggle2.style.display = 'none';  
-        }
-    
         for (let i = 0; i < rows.length; i++) {
             for (let j = 0; j < rows[i].cells.length; j++) {
                 rows[i].cells[j].style.display = '';
@@ -149,7 +208,7 @@ function showTableVersion(version) {
 }
 
 // Функция для переноса содержимого из div в соответствующий столбец таблицы
-function moveDivContentToColumn(columnDiv, columnIndex) {
+function moveDivContentToColumn(columnDiv, columnIndex, lang) {
     if (!columnDiv) return; // Если div не найден, выходим
 
     const lines = columnDiv.innerHTML.split('\n'); // Разделяем содержимое div по строкам
@@ -159,6 +218,7 @@ function moveDivContentToColumn(columnDiv, columnIndex) {
     // Переносим первую строку в заголовок столбца
     const th = table.querySelectorAll('thead th')[columnIndex];
     th.innerHTML = lines[0] || ''; // Первая строка идет в th
+    th.setAttribute('lang', lang); // Устанавливаем lang для заголовка столбца
 
     let sliceStart = 1;
     if (lines[1] === '') {
@@ -175,6 +235,7 @@ function moveDivContentToColumn(columnDiv, columnIndex) {
         }
         const currentRow = table.querySelectorAll('tbody tr')[index];
         currentRow.cells[columnIndex].innerHTML = line || ''; // Заполняем строки с сохранением HTML
+        currentRow.cells[columnIndex].setAttribute('lang', lang); // Устанавливаем lang для ячейки
     });
 }
 

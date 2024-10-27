@@ -5,7 +5,7 @@ tags:
     - dreamcatcher
 ---
 
-### 悲CAUSE | because | так как
+### 비커즈 / 悲CAUSE | because | так как
 
 english translation - [color coded lyrics](https://colorcodedlyrics.com/2021/07/30/dreamcatcher-because/)
 
