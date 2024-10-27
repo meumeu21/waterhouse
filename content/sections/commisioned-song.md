@@ -78,7 +78,7 @@ layout: "blank-single"
 
 10th single
 - [empurple | エンパープル || harumaki gohan & 25-ji, nightcord de]({{< relref "songs-translations/empurple" >}})
-- [bake no han | 化けの花 || nakiso & 25-ji, nightcord de]({{< relref "songs-translations/bake-no-hana" >}})
+- [bake no hana | 化けの花 || nakiso & 25-ji, nightcord de]({{< relref "songs-translations/bake-no-hana" >}})
 
 ![10th single](images/niigo/singles/10thsingle.heic)
 
