@@ -80,6 +80,6 @@ layout: "blank-single"
 - [empurple | エンパープル || harumaki gohan & 25-ji, nightcord de]({{< relref "songs-translations/empurple" >}})
 - [bake no hana | 化けの花 || nakiso & 25-ji, nightcord de]({{< relref "songs-translations/bake-no-hana" >}})
 
-![10th single](images/niigo/songs/Empurple_Game_Cover.heic)
+![10th single](images/niigo/singles/10thsingle.heic)
 
 <br>
