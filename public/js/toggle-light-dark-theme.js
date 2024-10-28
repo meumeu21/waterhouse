@@ -4,13 +4,11 @@ function toggleTheme() {
 
     if (isDarkTheme) {
         body.classList.remove('dark-theme');
-        body.classList.add('light-theme');
         document.querySelector('.toggleButton').value = "𖤓";
         document.getElementById('stawer1').innerHTML = "❀";
         document.getElementById('stawer2').innerHTML = "❀";
         localStorage.setItem('theme', 'light'); 
     } else {
-        body.classList.remove('light-theme');
         body.classList.add('dark-theme');
         document.querySelector('.toggleButton').value = "☾";
         document.getElementById('stawer1').innerHTML = "✦";
@@ -29,7 +27,6 @@ function loadTheme() {
             document.getElementById('stawer1').innerHTML = "✦";
             document.getElementById('stawer2').innerHTML = "✦";
         } else {
-            document.body.classList.add('light-theme');
             document.querySelector('.toggleButton').value = "𖤓";
             document.getElementById('stawer1').innerHTML = "❀";
             document.getElementById('stawer2').innerHTML = "❀";
@@ -42,7 +39,6 @@ function loadTheme() {
             document.getElementById('stawer1').innerHTML = "✦";
             document.getElementById('stawer2').innerHTML = "✦";
         } else {
-            document.body.classList.add('light-theme');
             document.querySelector('.toggleButton').value = "𖤓";
             document.getElementById('stawer1').innerHTML = "❀";
             document.getElementById('stawer2').innerHTML = "❀";

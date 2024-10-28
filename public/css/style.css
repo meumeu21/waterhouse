@@ -1,7 +1,7 @@
 html {
     overflow-y: scroll; 
     -moz-osx-font-smoothing: grayscale;}
-body.light-theme {
+:root {
     --bgcolor: #f0f0f0; 
     --fontcolor: #333;
     --linkcolor: #c370ff; 
@@ -15,7 +15,7 @@ body.light-theme {
     --table-selected-bgcolor: #9466a8;
     --table-edges: #636363;
     --hoverbutton: #323232;}
-body.dark-theme {
+.dark-theme {
     --bgcolor: black; 
     --fontcolor: white; 
     --linkcolor: #95C0FF; 
