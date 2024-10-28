@@ -29,13 +29,15 @@ html {
     --table-selected-bgcolor: #a8d4ff;
     --table-edges: #bababa;
     --hoverbutton: #bebebe;}
-body {max-width:800px;
+body {
+    max-width: 800px;
     margin: 40px auto;
     padding: 0 10px;
     font: 16px/1.5 "pixfont", monospace;
     word-wrap: break-word;
     color: var(--fontcolor); 
-    background-color: var(--bgcolor)}
+    background-color: var(--bgcolor)
+}
 a:link {color: var(--linkcolor)}
 a:visited {color: var(--linkcolor)}
 a:hover {color: var(--visitedcolor)}
@@ -43,62 +45,95 @@ a:active {color: var(--visitedcolor)}
 h1, h2, h3 {line-height: 1.2;}
 @font-face {
     font-family: "pixfont";
-    src: url(unifon.woff);}
-p > code {color: var(--precolor); 
+    src: url(unifon.woff);
+}
+p > code {
+    color: var(--precolor); 
     background: var(--prebgcolor); 
-    padding:2px}
-code {color: var(--precolor); 
+    padding:2px
+}
+code {
+    color: var(--precolor); 
     background: var(--prebgcolor); 
-    padding:2px}
-pre {color: var(--precolor); 
+    padding: 2px;
+}
+pre {
+    color: var(--precolor); 
     background: var(--prebgcolor); 
     padding: 24px; 
-    overflow-x: auto}
+    overflow-x: auto;
+}
 article {padding-bottom: 24px}
-.center {display: block;
+.center {
+    display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 100%;}
-figcaption {color: #888; 
+    width: 100%;
+}
+figcaption {
+    color: #888; 
     font: 16px/1.5 "pixfont", monospace; 
-    text-align: center;}
+    text-align: center;
+}
 figure {margin: auto}
-img {display: block; 
+img {
+    display: block; 
     max-width: 100%; 
     height: auto; 
-    margin: auto}
+    margin: auto
+}
 button {
     font: 14px/1.5 "pixfont", monospace;
     background-color: var(--button-bgcolor);
-    color: var(--button-fontcolor);}
-table {table-layout: fixed; 
-    width: 100%;}
-td {background-color: var(--table-bgcolor);
+    color: var(--button-fontcolor);
+}
+table {
+    table-layout: fixed; 
+    width: 100%;
+}
+td {
+    background-color: var(--table-bgcolor);
     padding: 9px;
     text-transform: lowercase;
     border-radius: 2px;
-    border: 1px solid var(--table-edges);}
-td::selection {background-color: var(--table-selected-bgcolor);
-    color: var(--button-fontcolor);}
-th::selection {background-color: var(--table-selected-bgcolor);
-    color: var(--button-fontcolor);}
+    border: 1px solid var(--table-edges);
+}
+td::selection {
+    background-color: var(--table-selected-bgcolor);
+    color: var(--button-fontcolor);
+}
+th::selection {
+    background-color: var(--table-selected-bgcolor);
+    color: var(--button-fontcolor);
+}
 
 .toggleButtons {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     padding-bottom: 10px;
 }
 .toggleButton {
+    flex: 1;
+    max-width: 150px;
     font-size: 13px;
     padding: 3px 5px;
-    margin-right: 2px;
     background-color: var(--button-bgcolor);
     color: var(--button-fontcolor);
-    border: thick double var(--button-fontcolor);}
+    border: thick double var(--button-fontcolor);
+}
+@media (max-width: 372px) {
+    .toggleButton {
+        max-width: none;
+    }
+}
+
 .toggleButton:hover {
-    background-color: var(--hoverbutton);}
+    background-color: var(--hoverbutton);
+}
 .empty {
-    background-color: var(--table-empty-bgcolor);}
+    background-color: var(--table-empty-bgcolor);
+}
 .searchButton {
     font-size: 15px;
     background-color: var(--button-bgcolor);
@@ -106,7 +141,8 @@ th::selection {background-color: var(--table-selected-bgcolor);
     padding: 2px 5px;
     border-radius: 3px;
     text-decoration: none;
-    display: inline-block;}
+    display: inline-block;
+}
 .highlight {
     background-color: var(--table-bgcolor);
     font-weight: bold;
@@ -119,4 +155,5 @@ form input {
     padding: 5px;
     width: calc(30%);
     background-color: var(--button-bgcolor);
-    color: var(--button-fontcolor);}
+    color: var(--button-fontcolor);
+}
