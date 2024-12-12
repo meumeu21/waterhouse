@@ -10,7 +10,7 @@ tags:
 
 ![bake no hana](images/niigo/songs/Bake_no_Hana_Game_Cover.heic)
 
-english translation - [by Thai1210](https://projectsekai.fandom.com/wiki/Bake_no_Hana#Romaji) and [Vocaloid Lyrics](https://vocaloidlyrics.fandom.com/wiki/化けの花_(Bake_no_Hana)) (edited by me)
+english translation - [by Thai1210](https://projectsekai.fandom.com/wiki/Bake_no_Hana) and [Vocaloid Lyrics](https://vocaloidlyrics.fandom.com/wiki/化けの花_(Bake_no_Hana)) (edited by me)
 
 bake no hana | цветок обмана
 --|--
