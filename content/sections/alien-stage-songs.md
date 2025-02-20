@@ -10,3 +10,5 @@ layout: "blank-single"
 - [cure || alien stage]({{< relref "songs-translations/cure" >}})
 
 - [blink gone || alien stage]({{< relref "songs-translations/blink-gone" >}})
+
+- [wiege || alien stage]({{< relref "songs-translations/wiege" >}})
